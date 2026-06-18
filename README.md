@@ -1,5 +1,3 @@
-# resume-matcher-docker
-
 # Resume Matcher – Docker Build & Deployment
 
 Containerized 3 Tier React.js Resume Matcher app.

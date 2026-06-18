@@ -60,7 +60,9 @@ Verified container startup, healthchecks, logs, and exposed ports.
 <img src="images/docker/Containerrunning/containerrunning6.png" width="300"/>
 </div>
 
-📝 Notes
+---
+
+## 📝 Notes
 
 Multi-stage builds keep images small.
 

@@ -61,6 +61,7 @@ Verified container startup, healthchecks, logs, and exposed ports.
 </div>
 
 📝 Notes
+
 Multi-stage builds keep images small.
 
 Alpine vs Debian Slim trade-offs.

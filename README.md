@@ -59,3 +59,14 @@ Verified container startup, healthchecks, logs, and exposed ports.
 <img src="images/docker/Containerrunning/containerrunning5.png" width="300"/>
 <img src="images/docker/Containerrunning/containerrunning6.png" width="300"/>
 </div>
+
+📝 Notes
+Multi-stage builds keep images small.
+
+Alpine vs Debian Slim trade-offs.
+
+Healthchecks ensure service readiness.
+
+
+
+

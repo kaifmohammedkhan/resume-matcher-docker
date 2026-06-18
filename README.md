@@ -2,8 +2,11 @@
 
 Containerized 3 Tier React.js Resume Matcher app.
 
-## 📺 Walkthrough
-[![Docker Build & Deployment Walkthrough](https://youtube.com)](https://youtube.com)
+## Access the walkthrough
+
+[![Docker Build & Deployment Walkthrough](https://img.youtube.com/vi/LtgTu2vG5vQ/0.jpg)](https://www.youtube.com/watch?v=LtgTu2vG5vQ)
+
+[Watch the YouTube video](https://www.youtube.com/embed/LtgTu2vG5vQ?si=u3g9Emt9E1p6FXfZ)
 
 
 ---
